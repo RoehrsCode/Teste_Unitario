@@ -1,0 +1,16 @@
+Crie e teste uma classe de agenda (em qualquer linguagem) que pode ser usada para armazenar informações de contatos. Crie a classe Agenda e escreva testes unitários para garantir que ela funcione corretamente. A classe Agenda deve ter os seguintes métodos:
+
+Adicionar_contato (nome, telefone) 
+Remover_contato (nome) 
+
+Escreva testes unitários para cada um dos métodos da classe  (em qualquer linguagem). Certifique-se de cobrir pelo menos os seguintes casos de teste em seus testes: 
+
+Adicionar um contato.
+Remover um contato existente.
+Remover um contato inexistente.
+
+==============
+
+Usei Java 17, Maven para dependências & JUNIT pros testes únitários.
+
+Explicação dos testes na propria classe de testes: AgendaTeste.java
